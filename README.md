@@ -1,5 +1,6 @@
+![Frame 4](https://user-images.githubusercontent.com/91594496/216147325-a56a8e28-a826-4272-b3dc-1a311812ca55.jpg)
 
-<h2 align="center">Heia!</h2>
+<h1 align="center">Heia!</h1>
 
 <br>
 
@@ -7,7 +8,8 @@
 
 <h3>Check if my work is up to your standards?  ✨ &nbsp&nbsp  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects">- Visit my top projects - </a></h3>
 
-:grey_exclamation:But give the readme of each repo a quick minute
+ <h4>&nbsp :grey_exclamation:But remember to give the readme of each repo a quick minute</h4> 
+ 
 > *I wanted to include work that shows a process which started with zero knowledge and easy code. I think you'll see an increase in complexity and quality of the projects, as well as a always expanding skill set and understanding of the development environment*
 
 
