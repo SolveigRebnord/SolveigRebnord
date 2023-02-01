@@ -6,7 +6,7 @@
 
 <h3 align="center">Here to see if my work is up to your standards?  ✨ &nbsp&nbsp  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects">- Check out my top projects - </a></h3>
 
- <h4 align="center">&nbsp :grey_exclamation:But remember to give the readme of each repo a quick minute</h4> 
+ <p align="center">&nbsp :grey_exclamation:But remember to give the readme of each repo a quick minute ;-)</p> 
 
 
 <br><br>
