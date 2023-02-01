@@ -6,7 +6,8 @@
 
 
 
-<h3>Here to see if my work is up to your standards?  ✨ &nbsp&nbsp  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects">- Check out my top projects - </a></h3>
+<h3 align="center">Here to see if my work is up to your standards?  ✨ &nbsp&nbsp  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects">- Check out my top projects - </a></h3>
+<br>
  <h4>&nbsp :grey_exclamation:But remember to give the readme of each repo a quick minute</h4> 
  
 > *I wanted to include work that shows a process which started with zero knowledge and easy code. I think you'll see an increase in complexity and quality of the projects, as well as a always expanding skill set and understanding of the development environment*
@@ -19,9 +20,14 @@
 <h3 align="center">I am graduated Frontend Developer by June 2023</h3>
 <br>
 <p align="left">
-+ With an extra passion and interest for Interaction Design <br>
-+ With a background and bachelor in Economics and Business <br>
-With 
+ 
+```
+With a extra passion and interest for Interaction Design
+```
+```
+A background and bachelor in Economics and Business
+```
+
 </p>
 
 <br>
