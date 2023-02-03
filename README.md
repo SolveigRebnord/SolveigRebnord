@@ -11,19 +11,16 @@
 
 <br>
 
-<h3 align="center">I am graduated Frontend Developer by June 2023</h3>
+<h2 align="center">I am graduated Frontend Developer by June 2023</h2>
 <br>
-
-
-
-
-<br>
-<p align="center">
-With a extra passion and interest for Interaction Design
+<span align="center">
+<p>
+With an extra passion and interest for Interaction Design
 </p>
-<p align="center">
-A background and bachelor in Economics and Business
+<p>
+And a background and bachelor in Economics and Business
 </p>
+</span>
 
 <br>
 <br>
