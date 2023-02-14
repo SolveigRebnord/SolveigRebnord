@@ -58,7 +58,7 @@ Current Work &nbsp :thought_balloon:
  
  
  <p align="center" width="200px">
-Using Supabase, <sup><a href="https://github.com/SolveigRebnord/fullstack-app-supabase">my current project</a></sup> is a social platform that allows for users to share recipes and inspiration from their creative work<br>The application will include management of users, admin users and the database's content 
+Using Supabase, <sup><a href="https://github.com/SolveigRebnord/fullstack-app-supabase">my current project</a></sup> is a social platform,<br>that allows for users to share recipes and inspiration from their creative work<br>-<br>The application will include management of users, admin users and the database's content 
 
  </p>
 
