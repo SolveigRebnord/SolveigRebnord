@@ -24,7 +24,7 @@
 ---
  </p>
 <p align="center">
-Starting at zero; my skill set and knowledge of the development environment has, and is, continuesly growing
+Starting at zero; my skill set and knowledge of the development environment is continuesly growing
  </p>
 
 
@@ -35,19 +35,19 @@ Starting at zero; my skill set and knowledge of the development environment has,
  </p>
   <br>
   
-  <p align="center">Improving</p>
+  <p align="center">Currently exploring : &nbsp <a href="https://skillicons.dev">
+    <img width="180"  src="https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,supabase&theme=light" />
+  </a></p>
   <p align="center">
-   <a href="https://skillicons.dev">
-    <img width="200" src="https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,supabase&theme=light" />
-  </a>
+   
    </p>
   <br>
   
-  <p align="center">Looking forward to learn</p>
-  <p align="center">
-   <a href="https://skillicons.dev">
-    <img width="160" src="https://skillicons.dev/icons?i=react,svelte,vue&theme=light" />
-  </a>
+  <p align="center">Looking forward to start soon : &nbsp <a href="https://skillicons.dev">
+    <img width="100" src="https://skillicons.dev/icons?i=react,svelte,vue&theme=light" />
+  </a></p>
+  <p align="center" >
+  
    </p>
 <br>
 <br>
