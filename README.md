@@ -19,7 +19,7 @@
 - With a background and bachelor within Economics and Business -
 </p>
 </span>
-<br>
+
 <p align="center">
 ---
  </p>
@@ -30,21 +30,21 @@ Starting at zero; my skill set and knowledge of the development environment is c
 
 <p align="center">
  <a href="https://skillicons.dev">
-    <img width="440" src="https://skillicons.dev/icons?i=html,css,javascript,github,netlify,postman,tailwind,vscode,vite,wordpress,figma&theme=light" />
+    <img width="380" src="https://skillicons.dev/icons?i=html,css,javascript,github,netlify,postman,tailwind,vscode,vite,wordpress,figma&theme=light" />
   </a>
  </p>
   <br>
   
   <p align="center">Currently exploring : &nbsp <a href="https://skillicons.dev">
-    <img width="180"  src="https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,supabase&theme=light" />
+    <img width="160"  src="https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,supabase&theme=light" />
   </a></p>
   <p align="center">
    
    </p>
   <br>
   
-  <p align="center">Looking forward to start soon : &nbsp <a href="https://skillicons.dev">
-    <img width="100" src="https://skillicons.dev/icons?i=react,svelte,vue&theme=light" />
+  <p align="center">Looking forward to : &nbsp <a href="https://skillicons.dev">
+    <img width="90" src="https://skillicons.dev/icons?i=react,svelte,vue&theme=light" />
   </a></p>
   <p align="center" >
   
