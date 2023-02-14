@@ -1,8 +1,8 @@
-<h1 align="center">Hei!</h1>
+<h1 align="center">Hei der!</h1>
 <br>
 <h3 align="center">Here to see if my work is up to your standards?  ✨ &nbsp&nbsp  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects">- Check out my top projects - </a></h3>
 
- <p align="center">&nbsp :grey_exclamation:But remember to give the readme of each repo a quick minute ;-)</p> 
+ <p align="center">&nbsp :grey_exclamation:But remember to give the readme of each repo a quick minute</p> 
 
 
 
@@ -11,25 +11,26 @@
 
 <br>
 
-<h2 align="center">I am graduated Frontend Developer by June 2023</h2>
-<br>
+<h3 align="center">I am graduated Frontend Developer by June 2023</h3>
+
 <span align="center">
+
 <p>
-With an extra passion and interest for Interaction Design
-</p>
-<p>
-And a background and bachelor in Economics and Business
+- With a background and bachelor within Economics and Business -
 </p>
 </span>
 <br>
 <p align="center">
-Starting at zero, my skill set and knowledge of the development environment has, and is continuesly, growing
+---
  </p>
-<br>
+<p align="center">
+Starting at zero; my skill set and knowledge of the development environment has, and is, continuesly growing
+ </p>
+
 
 <p align="center">
  <a href="https://skillicons.dev">
-    <img width="500" src="https://skillicons.dev/icons?i=html,css,javascript,github,netlify,postman,tailwind,vscode,vite,wordpress,figma&theme=light" />
+    <img width="440" src="https://skillicons.dev/icons?i=html,css,javascript,github,netlify,postman,tailwind,vscode,vite,wordpress,figma&theme=light" />
   </a>
  </p>
   <br>
