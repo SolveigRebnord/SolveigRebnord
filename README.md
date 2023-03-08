@@ -26,32 +26,20 @@
 </p>
 <p align="center">
  <a href="https://skillicons.dev">
-  <img width="380" src="https://skillicons.dev/icons?i=html,css,javascript,github,netlify,postman,tailwind,vscode,vite,wordpress,figma&theme=light" />
+  <img width="380" src="https://skillicons.dev/icons?i=html,css,javascript,github,netlify,postman,tailwind,vscode,vite,wordpress,figma,supabase&theme=light" />
  </a>
 </p>
 <br>
-<p align="center">Currently exploring : &nbsp 
+<p align="center">Right now : &nbsp 
  <a href="https://skillicons.dev">
-  <img width="160"  src="https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,supabase&theme=light" />
+  <img width="110"  src="https://skillicons.dev/icons?i=express,nodejs,react&theme=light" />
  </a>
 </p>
 <br>
 <p align="center">Looking forward to : &nbsp 
  <a href="https://skillicons.dev">
-  <img width="90" src="https://skillicons.dev/icons?i=react,svelte,vue&theme=light" />
+  <img width="110" src="https://skillicons.dev/icons?i=svelte,vue,mongodb,mysql&theme=light" />
  </a>
 </p>
 <br>
-<h3 align="center">Current Work &nbsp :thought_balloon:</h3>
-<p align="center" width="200px">
- Using Supabase, 
- <sup>
-  <a href="https://github.com/SolveigRebnord/fullstack-app-supabase">my current project</a>
- </sup> 
- is a social platform,
- <br>that allows for users to share recipes and inspiration from their creative work
- <br>-
- <br>
- The application will include management of users, admin users and the database's content 
-</p>
 <br>
