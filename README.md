@@ -1,4 +1,4 @@
-<h3 align="center">✨ Frontend (kul) ✨</h3> 
+<h3 align="center">✨ Frontend ✨</h3> 
 <br>
 <p align="center"> Sjekk ut mine beste -->&nbsp <a underline="none" href="https://github.com/stars/SolveigRebnord/lists/top-projects">prosjekter</a>  </p>
 
