@@ -23,6 +23,4 @@
  </a> 
  Men ikke alt**  ✍️
 </p>
-<br>
-<br>
-<br>
+
