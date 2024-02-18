@@ -1,6 +1,6 @@
 <h2>Hei, Solveig her 👋</h2> 
 
-Ta snarveien til mine **-->** &nbsp;  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects"> favoritt prosjekter</a>
+<h3>> Ta snarveien til mine <a href="https://github.com/stars/SolveigRebnord/lists/top-projects"> favoritt prosjekter</a> ✨</h3>
 
 <br>
  <h3>| Verktøy </h3>
