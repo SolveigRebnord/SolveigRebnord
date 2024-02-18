@@ -1,26 +1,21 @@
-<h3 align="center">✨ Frontend ✨</h3> 
+<h2>Hei, Solveig her 👋</h2> 
+
+Ta snarveien til mine **-->** &nbsp;  <a href="https://github.com/stars/SolveigRebnord/lists/top-projects"> favoritt prosjekter</a>
+
 <br>
-<p align="center"> Sjekk ut mine beste -->&nbsp <a underline="none" href="https://github.com/stars/SolveigRebnord/lists/top-projects">prosjekter</a>  </p>
+ <h3>| Verktøy </h3>
+ 
+Frontend:  `HTML` `CSS` `Javascript` `Tailwind CSS` `React`
 
+Tools: `git` `sourceTree` `VSCode` `Postman` `Vercel` 
+
+Design/Prototyping: `Figma`
+
+⚡ Currencly: `NextJS` `Typescript`
 
 <br>
-<br>
+ <h3>| Let's talk </h3>
+ 
+Nå meg på **-->** &nbsp;  :octocat:  `gitHub` eller <a href="https://www.linkedin.com/in/solveig-rebnord-68b9a3190/">  LinkedIn</a>
 
-<p align="center">
- <a href="https://skillicons.dev">
-  <img width="400" src="https://skillicons.dev/icons?i=html,css,javascript,github,postman,tailwind,vscode,vercel,figma,react&theme=light" />
- </a>
-
- **<p align="center">
- Jeg kan mye ^**
-</p>
-</p>
-<br>
-
-**<p align="center"> 
-  <a href="https://skillicons.dev">
-  <img width="32"  src="https://skillicons.dev/icons?i=nextjs&theme=light" /><br><br>
- </a> 
- Men ikke alt**  ✍️
-</p>
 
