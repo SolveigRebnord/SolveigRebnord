@@ -1,6 +1,6 @@
 <h2>Hei, Solveig her 👋</h2> 
 
-<h3>> Sjekk ut <a href="https://suunroad.vercel.app/" target="blank">porteføljen min </a> 💁‍♀️
+<h3>> Sjekk ut <a href="https://suunroad.vercel.app/" target="_blank">porteføljen min </a> 💁‍♀️
 <h3> Eller ta snarveien til mine <a href="https://github.com/SolveigRebnord?tab=stars"> favoritt prosjekter</a> ✨</h3>
 
 <br>
